@@ -1,5 +1,5 @@
 # Interview Bit Tracker
-The website has been developed using MERN Stack.
+The website has been developed using  MERN Stack.
 ### Screenshots of the website:
 
 <img src="screenshots/ss1.png" height="600" width="800">
